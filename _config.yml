@@ -40,9 +40,9 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/guillaumeray # change to your GitHub homepage
+    - https://www.linkedin.com/in/guillaume-rayes-74470939/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:

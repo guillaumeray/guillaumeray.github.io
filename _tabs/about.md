@@ -41,7 +41,7 @@ En tant que QA Engineer, je me spécialise dans :
 N'hésitez pas à me contacter pour discuter de projets, d'opportunités ou simplement échanger sur les bonnes pratiques en QA !
 
 - **GitHub** : [guillaumeray](https://github.com/guillaumeray)
-- **LinkedIn** : _À venir_
+- **LinkedIn** : [Guillaume Rayes](https://www.linkedin.com/in/guillaume-rayes-74470939/)
 
 ---
 
